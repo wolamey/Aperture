@@ -1,1 +1,1 @@
-https://wolamey.github.io/Aperture/contacts.html
+https://wolamey.github.io/Aperture/index.html
